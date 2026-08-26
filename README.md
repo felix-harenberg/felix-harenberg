@@ -21,3 +21,9 @@ CS student at ETH Zürich, based in Switzerland. I build things and I train hard
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="90" alt="Claude" />
+  <br>
+  <sub><i>🤖 Claude was here — don't @ me if something breaks</i></sub>
+</div>
